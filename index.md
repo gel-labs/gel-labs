@@ -2,9 +2,9 @@ Greg's Links
 ===
 
 
-- Scott Young, "I was wrong about speed reading: Here are the facts," January 2015. This excellent blog post nicely summarizes what is known in relation to speed reading.
-John Dunlosky, "Strengthening the Student Toolbox: Study Strategies to Boost Learning," American Educator, Fall, 2013. This excellent, comprehensive article is written by one of the top researchers in learning.
-- Michael Friedman, "Note-taking tools and tips," (October 15, 2014), Harvard Initiative for Learning and Teaching. This article, and an article embedded within it, ("Notes on Note-Taking: Review of Research and Insights for Students and Instructors"), have very useful insights into how to improve your note taking.
+- Scott Young, ["I was wrong about speed reading: Here are the facts,"](https://www.scotthyoung.com/blog/2015/01/19/speed-reading-redo/) January 2015. This excellent blog post nicely summarizes what is known in relation to speed reading.
+- John Dunlosky, ["Strengthening the Student Toolbox: Study Strategies to Boost Learning,"](https://www.aft.org/sites/default/files/periodicals/dunlosky.pdf) American Educator, Fall, 2013. This excellent, comprehensive article is written by one of the top researchers in learning.
+- Michael Friedman, ["Note-taking tools and tips,"](http://hilt.harvard.edu/blog/note-taking-tools-and-tips) (October 15, 2014), Harvard Initiative for Learning and Teaching. This article, and an article embedded within it, ("Notes on Note-Taking: Review of Research and Insights for Students and Instructors"), have very useful insights into how to improve your note taking.
 - Maria Konnikova. (January 11, 2014), "Goodnight. Sleep Clean," The New York Times.
 -	John Hamilton. (October 17, 2013). "Brains Sweep Themselves Clean of Toxins During Sleep."NPR All Things Considered.
 -	Mind Tools, "The Pomodoro Technique® Staying Focused Throughout the Day."
